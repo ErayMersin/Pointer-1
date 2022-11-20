@@ -1,0 +1,9 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(16,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(16,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'int *') çakışıyor
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(17,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'float *'
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(17,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'float *') çakışıyor
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(18,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(18,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\eray\source\repos\Pointer-1\Pointer-1\Kaynak.c(7,11): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Pointer-1.vcxproj -> C:\Users\eray\source\repos\Pointer-1\x64\Debug\Pointer-1.exe
